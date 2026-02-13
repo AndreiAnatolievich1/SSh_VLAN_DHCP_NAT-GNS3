@@ -1,4 +1,4 @@
-На скриншотах представленна настройка роутера и пин 8.8.8.8 с PC, так же представле процесс подключения к роутеру по SSh  через программу MobaXterm
+На скриншотах представленна настройка роутера и `пинг` 8.8.8.8 с PC, так же представле процесс подключения к роутеру по SSh  через программу MobaXterm
 <img width="1918" height="1109" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b13fe02c-1059-439f-b5fa-586cfb9b919a" />
 
 <img width="1919" height="1102" alt="Screenshot_4" src="https://github.com/user-attachments/assets/1fcf5cee-89e5-4ec0-833d-820e221fa2e4" />
